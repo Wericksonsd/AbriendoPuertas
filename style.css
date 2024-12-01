@@ -210,18 +210,7 @@ nav{
     color: #aec2ab83;
 }
 
-
-
-
-
-
-
 /* BODY */
-
-
-
-
-
 
 main{
     display: flex;
@@ -230,7 +219,6 @@ main{
     justify-content: center;
 }
 
-
 .logomarca{
     display: flex;
     align-items: center;
@@ -238,14 +226,12 @@ main{
     color: whitesmoke;
 }
 
-
 .titleMenuLink{
     font-family: "Roboto Slab", serif;
     font-size: 4rem;
     font-weight: 600;
     padding-top: 200px;
 }
-
 
 .titlePj{
     max-width: 100%;
@@ -257,11 +243,9 @@ main{
     font-size: 2.5rem;
 }
 
-
 .titlePj h1{
     font-weight: 700;
 }
-
 
 .history{
     max-width: 100%;
@@ -274,11 +258,9 @@ main{
     line-height: 2rem;
 }
 
-
 .history img{
     border-radius: 10px;
 }
-
 
 .oficinas{
     width: 100dvw;
@@ -289,7 +271,6 @@ main{
     flex-direction: column;
 }
 
-
 .imgFundoOficinas{
     width: 100%;
     background-image: url("https://static.vecteezy.com/system/resources/previews/019/015/937/non_2x/a-group-of-children-sitting-at-the-table-in-the-classroom-and-reading-together-or-shelves-in-the-background-illustration-of-student-study-group-cartoon-vector.jpg");
@@ -299,12 +280,10 @@ main{
     height: 450px;
 }
 
-
 .textOficinas{
     width: 70%;
     padding: 25px;
 }
-
 
 .textOficinas h1{
     font-size: 1.4rem;
@@ -313,13 +292,9 @@ main{
     line-height: 25px;
 }
 
-
 .negritoTxt{
     font-weight: 800;
 }
-
-
-
 
 .textHistory{
     display: flex;
@@ -330,19 +305,9 @@ main{
     text-align: justify;
 }
 
-
-
-
 .textHistory h1{
     font-weight: 700;
 }
-
-
-
-
-
-
-
 
 .resultados{
     width: 100%;
@@ -352,14 +317,6 @@ main{
     align-items: center;
     justify-content: space-around;
 }
-
-
-
-
-
-
-
-
 .cardsResultados{
     width: 270px;
     height: 550px;
@@ -375,25 +332,11 @@ main{
     gap: 80px;
 }
 
-
-
-
-
-
-
-
 .textResultados{
     flex: 1;
     font-size: 0.6rem;
     text-align: center;
 }
-
-
-
-
-
-
-
 
 footer{
     width: 100dvw;
@@ -408,13 +351,6 @@ footer{
     font-size: 0.7rem;
 }
 
-
-
-
-
-
-
-
 footer div{
     width: 100%;
     display: flex;
@@ -423,17 +359,11 @@ footer div{
     gap: 50px;
 }
 
-
-
-
 footer a{
     text-decoration: none;
     font-size: 0.9rem;    
     color: var(--contrastMain);
 }
-
-
-
 
 .icons{
     font-size: 4em;
